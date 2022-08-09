@@ -5,7 +5,7 @@ Funcionalidade: Obtém menus dos restaurantes de fastfood
 
 Para correr a API: https://fastfoodmenuapi.herokuapp.com/
 
-/fastfood para ver todas as notícias relativamente a Covid em Português
+/fastfood para ver todas os menus
 
 /fastfood/:restaurantId para filtrar por site
 
